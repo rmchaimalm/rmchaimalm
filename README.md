@@ -1,4 +1,4 @@
-# 🛡️ Prof. Dr. Ricardo Matos Chaim 
+#  Prof. Dr. Ricardo Matos Chaim 
 ## Full Professor at University of Brasília (UnB) | Professor Titular (UnB)
 ### Director of CPAI/FCTE | Diretor do CPAI/FCTE
 #### Cybersecurity & Software Engineering | Engenharia de Software e Cibersegurança
@@ -9,5 +9,3 @@
 - **Research:** System Dynamics, Pension Fund Risk Management, and Data Protection.
 - **Pesquisa:** Dinâmica de Sistemas, Gestão de Riscos em Fundos de Pensão e Proteção de Dados.
 
----
-📫 **Contact | Contato:** [LinkedIn](https://www.linkedin.com/in/SEU-PERFIL) | ricardoc@unb.br
